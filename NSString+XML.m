@@ -1,9 +1,6 @@
 //
 //  NSString+XML.m
-//  ESPN Shopper
-//
 //  Created by Hyde, Andrew on 3/20/13.
-//  Copyright (c) 2013 ESPN. All rights reserved.
 //
 
 #import "NSString+XML.h"
